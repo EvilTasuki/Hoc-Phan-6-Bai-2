@@ -1,0 +1,15 @@
+body{
+    font-family: "Arial";
+    width: 100%;
+    background-image: url("sky.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: justify;
+    color: white;
+}
+h5{
+    color: white;
+    text-align: justify;
+}
